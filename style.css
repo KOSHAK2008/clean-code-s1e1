@@ -16,7 +16,7 @@ body {
     width: 100%;
 }
 
-.aaa .more_inf {
+.aaa .more-inf {
     font-family: fantasy, cursive;
 }
 
@@ -163,11 +163,11 @@ ul li .task__text {
     display: none
 }
 
-ul li.editMode .task__text {
+ul li.edit-mode .task__text {
     display: inline-block;
     width: 224px
 }
 
-ul li.editMode label {
+ul li.edit-mode label {
     display: none;
 }
