@@ -21,11 +21,9 @@
 }
 
 @media (max-width: 768px) {
-
     .block-inf {
         text-align: center;
     }
-
 }
 
 .todo-list {
@@ -34,8 +32,7 @@
     margin: 0 auto 0;
 }
 
-.task__label,
-.task__input {
+.task__label,.task__input {
     width: 56%;
     display: inline-block;
     flex-grow: 1;
@@ -50,13 +47,11 @@ ul {
     padding: 0px;
 }
 
-li,
-h3 {
+li,h3 {
     list-style: none;
 }
 
-input,
-button {
+input,button {
     outline: none;
 }
 
